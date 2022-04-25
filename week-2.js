@@ -1,6 +1,6 @@
 /* Return min and max numbers in an array */
 
-// Using Math methods and the spread opertator
+// Using Math methods and the spread operator
 // function minMax(arr) {
 // 	return [Math.min(...arr), Math.max(...arr)];
 // }
