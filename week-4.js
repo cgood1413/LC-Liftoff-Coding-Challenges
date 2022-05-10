@@ -9,4 +9,4 @@ function LongestWord(sen) {
 
 console.log(LongestWord("Hello world123 567")); // -> world123
 console.log(LongestWord("fun&!! time")); // -> time
-console.log(LongestWord("I love drama dogs")); // -> love
+console.log(LongestWord("I love dogs")); // -> love
